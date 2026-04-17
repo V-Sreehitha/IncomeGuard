@@ -476,8 +476,8 @@ The services should be started and interact in the following order:
 * numpy
 
 ---
-## 📊 Pitch Deck Access
+## 📊 Pitch Deck Access 
 
-## 🎥 Project Demo Video
+## 🎥 Project Demo Video : https://youtu.be/bnj9pRzNrpA
 
 ## 🌐 Live Deployment
