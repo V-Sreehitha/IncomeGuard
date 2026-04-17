@@ -372,16 +372,6 @@ User → Data Collection → Disruption Check → Claim Creation → ML + Fraud 
 
 ---
 
-## 16. Why This Project Stands Out
-
-* Solves a real-world problem for gig workers
-* Integrates AI/ML technologies
-* Includes fraud detection mechanisms
-* Balances automation with human control
-* Supports multi-factor disruptions
-* Built with scalable architecture
-
----
 
 ## 17. Database
 
@@ -486,44 +476,8 @@ The services should be started and interact in the following order:
 * numpy
 
 ---
+## 📊 Pitch Deck Access
 
-## 20. Deliverables (Phase 3)
+## 🎥 Project Demo Video
 
-Ensure the following are included:
-
-### Git Repository
-
-* Public or accessible repository
-* Complete source code
-
-### Pitch Deck
-
-* Upload to Google Drive or similar platform
-* Make it publicly accessible
-* Add link below
-
-**Pitch Deck:** *Add your link here*
-
----
-
-### Recorded Demo Video
-
-* Clear demonstration of:
-
-  * Dashboard
-  * Claim flow
-  * Admin approval
-  * Analytics
-
-**Demo Video:** *Add your link here*
-
----
-
-### Source Code & Execution
-
-* Provide complete project code
-* Include all dependencies
-* Ensure setup instructions are clear (see Installation section)
-* Optional: Provide deployed/hosted link
-
----
+## 🌐 Live Deployment
