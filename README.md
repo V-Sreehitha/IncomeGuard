@@ -476,7 +476,7 @@ The services should be started and interact in the following order:
 * numpy
 
 ---
-## 📊 Pitch Deck Access 
+## 📊 Pitch Deck Access : https://drive.google.com/file/d/141ZFzKvhUvoB1Hlvu6j49uo8Eio7qECH/view?usp=sharing
 
 ## 🎥 Project Demo Video : https://youtu.be/bnj9pRzNrpA
 
