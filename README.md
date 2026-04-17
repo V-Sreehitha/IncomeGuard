@@ -480,4 +480,4 @@ The services should be started and interact in the following order:
 
 ## 🎥 Project Demo Video : https://youtu.be/bnj9pRzNrpA
 
-## 🌐 Live Deployment
+## 🌐 Live Deployment : https://devtrails-smoky.vercel.app/
